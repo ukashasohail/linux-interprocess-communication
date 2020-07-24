@@ -20,7 +20,7 @@ void P(int i){
 }
 
 void main(){
-    create mailbox (box); // creating a mailbox named box (some library will be used)
+    create_mailbox (box); // creating a mailbox named box (some library will be used)
     
     send(box,null); // initializing the mailbox with null
 
